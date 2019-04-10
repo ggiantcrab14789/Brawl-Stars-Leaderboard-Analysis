@@ -13,6 +13,9 @@ By analyzing the trophies, victories and brawler trophies of these top players, 
 - Exploratory Data Analysis
 - Data-driven gaming strategy
 
-The [leaderboard](https://github.com/ggiantcrab14789/Brawl-Stars-Leaderboard-Analysis/blob/master/Leaderboard_Top200.xlsx) is extract on 3/31/2019 4:50 AM(GMT-5)
+The [leaderboard](https://github.com/ggiantcrab14789/Brawl-Stars-Leaderboard-Analysis/blob/master/Leaderboard_Top200.xlsx) is extracted on 3/31/2019 4:50 AM(GMT-5)
 
 Thanks to the [BrawlStats API](https://github.com/SharpBit/brawlstats) provided by [SharpBit](https://github.com/SharpBit)
+
+## Data Analysis
+[Brawl Stars Data Analysis -Best/Worst Brawlers](https://medium.com/@aliciali_7397/brawl-stars-data-analysis-best-worst-brawlers-99eb7684ad8)
